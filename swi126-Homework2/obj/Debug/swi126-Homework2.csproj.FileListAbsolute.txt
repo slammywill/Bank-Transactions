@@ -1,0 +1,11 @@
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\bin\Debug\swi126-Homework2.exe.config
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\bin\Debug\swi126-Homework2.exe
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\bin\Debug\swi126-Homework2.pdb
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126-Homework2.csproj.AssemblyReference.cache
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126-Homework2.csproj.SuggestedBindingRedirects.cache
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126_Homework2.BankTransactionsForm.resources
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126_Homework2.Properties.Resources.resources
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126-Homework2.csproj.GenerateResource.cache
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126-Homework2.csproj.CoreCompileInputs.cache
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126-Homework2.exe
+B:\Coding\C#\swi126-Homework2\swi126-Homework2\obj\Debug\swi126-Homework2.pdb
